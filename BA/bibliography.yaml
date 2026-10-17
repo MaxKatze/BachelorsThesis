@@ -1,0 +1,717 @@
+wolsey2020:
+  type: Book
+  title: Integer Programming
+  author: Wolsey, Laurence A.
+  edition: 2
+  publisher: Wiley
+  date: 2020
+
+schrijver1998:
+  type: Book
+  title: Theory of Linear and Integer Programming
+  author: Schrijver, Alexander
+  publisher: Wiley
+  date: 1998
+
+dantzig1960:
+  type: Article
+  title: Decomposition Principle for Linear Programs
+  author: ["Dantzig, George B.", "Wolfe, Philip"]
+  parent:
+    type: Periodical
+    title: Operations Research
+  volume: 8
+  issue: 1
+  page-range: 101-111
+  date: 1960
+
+shapiro2006:
+  type: Book
+  title: "Modeling the Supply Chain"
+  author: Shapiro, Jeremy F.
+  edition: 2
+  publisher: Duxbury Press
+  date: 2006
+
+chopra2021:
+  type: Book
+  title: "Supply Chain Management: Strategy, Planning and Operation"
+  author: ["Chopra, Sunil", "Meindl, Peter"]
+  edition: 7
+  publisher: Pearson
+  date: 2021
+
+garey1979:
+  type: Book
+  title: "Computers and Intractability: A Guide to the Theory of NP-Completeness"
+  author: ["Garey, Michael R.", "Johnson, David S."]
+  publisher: W.H. Freeman
+  date: 1979
+
+cormen2022:
+  type: Book
+  title: "Introduction to Algorithms"
+  author: ["Cormen, Thomas H.", "Leiserson, Charles E.", "Rivest, Ronald L.", "Stein, Clifford"]
+  edition: 4
+  publisher: MIT Press
+  date: 2022
+
+gurobi2024:
+  type: Web
+  title: "Gurobi Optimizer Reference Manual"
+  author: "Gurobi Optimization, LLC"
+  url:
+    value: https://www.gurobi.com/documentation/
+    date: 2026-07-12
+  date: 2024
+
+scip2024:
+  type: Web
+  title: "SCIP: Solving Constraint Integer Programs"
+  author: "SCIP Optimization Suite"
+  url:
+    value: https://www.scipopt.org/
+    date: 2026-07-05
+  date: 2024
+
+sap_ibp2024:
+  type: Web
+  title: "SAP Integrated Business Planning"
+  author: SAP SE
+  url:
+    value: https://help.sap.com/docs/SAP_INTEGRATED_BUSINESS_PLANNING
+    date: 2026-07-18
+  date: 2024
+
+networkx2024:
+  type: Web
+  title: "NetworkX Documentation"
+  author: "NetworkX Developers"
+  url:
+    value: https://networkx.org/documentation/stable/
+    date: 2026-07-23
+  date: 2024
+
+polars2024:
+  type: Web
+  title: "Polars Documentation"
+  author: "Polars Contributors"
+  url:
+    value: https://docs.pola.rs/
+    date: 2026-07-09
+  date: 2024
+
+numpy2020:
+  type: Article
+  title: "Array programming with NumPy"
+  author: ["Harris, Charles R.", "Millman, K. Jarrod", "van der Walt, Stéfan J.", "Gommers, Ralf", "Virtanen, Pauli", "Cournapeau, David", "Wieser, Eric", "Taylor, Julian", "Berg, Sebastian", "Smith, Nathaniel J.", "Kern, Robert", "Picus, Matti", "Hoyer, Stephan", "van Kerkwijk, Marten H.", "Brett, Matthew", "Haldane, Allan", "del Río, Jaime Fernández", "Wiebe, Mark", "Peterson, Pearu", "Gérard-Marchant, Pierre", "Sheppard, Kevin", "Reddy, Tyler", "Weckesser, Warren", "Abbasi, Hameer", "Gohlke, Christoph", "Oliphant, Travis E."]
+  parent:
+    type: Periodical
+    title: Nature
+  volume: 585
+  page-range: 357-362
+  date: 2020
+
+python2024:
+  type: Web
+  title: "Python Documentation"
+  author: "Python Software Foundation"
+  url:
+    value: https://docs.python.org/3/
+    date: 2026-07-27
+  date: 2024
+
+tarjan1972:
+  type: Article
+  title: "Depth-First Search and Linear Graph Algorithms"
+  author: Tarjan, Robert E.
+  parent:
+    type: Periodical
+    title: SIAM Journal on Computing
+  volume: 1
+  issue: 2
+  page-range: 146-160
+  date: 1972
+
+land1960:
+  type: Article
+  title: "An Automatic Method of Solving Discrete Programming Problems"
+  author: ["Land, Ailsa H.", "Doig, Alison G."]
+  parent:
+    type: Periodical
+    title: Econometrica
+  volume: 28
+  issue: 3
+  page-range: 497-520
+  date: 1960
+
+bixby2012:
+  type: Article
+  title: "A Brief History of Linear and Mixed-Integer Programming Computation"
+  author: Bixby, Robert E.
+  parent:
+    type: Periodical
+    title: Documenta Mathematica
+  volume: Extra Volume ISMP
+  page-range: 107-121
+  date: 2012
+
+achterberg2009:
+  type: Article
+  title: "SCIP: Solving Constraint Integer Programs"
+  author: Achterberg, Tobias
+  parent:
+    type: Periodical
+    title: Mathematical Programming Computation
+  volume: 1
+  issue: 1
+  page-range: 1-41
+  date: 2009
+
+benders1962:
+  type: Article
+  title: Partitioning Procedures for Solving Mixed-Variables Programming Problems
+  author: Benders, Jacques F.
+  parent:
+    type: Periodical
+    title: Numerische Mathematik
+  volume: 4
+  issue: 1
+  page-range: 238-252
+  date: 1962
+
+fisher1981:
+  type: Article
+  title: The Lagrangian Relaxation Method for Solving Integer Programming Problems
+  author: Fisher, Marshall L.
+  parent:
+    type: Periodical
+    title: Management Science
+  volume: 27
+  issue: 1
+  page-range: 1-18
+  date: 1981
+
+geoffrion1974:
+  type: Article
+  title: Lagrangean Relaxation for Integer Programming
+  author: Geoffrion, Arthur M.
+  parent:
+    type: Periodical
+    title: Mathematical Programming Study
+  volume: 2
+  page-range: 82-114
+  date: 1974
+
+karypis1998:
+  type: Article
+  title: A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+  author: ["Karypis, George", "Kumar, Vipin"]
+  parent:
+    type: Periodical
+    title: SIAM Journal on Scientific Computing
+  volume: 20
+  issue: 1
+  page-range: 359-392
+  date: 1998
+
+barnhart1998:
+  type: Article
+  title: "Branch-and-Price: Column Generation for Solving Huge Integer Programs"
+  author: ["Barnhart, Cynthia", "Johnson, Ellis L.", "Nemhauser, George L.", "Savelsbergh, Martin W.P.", "Vance, Pamela H."]
+  parent:
+    type: Periodical
+    title: Operations Research
+  volume: 46
+  issue: 3
+  page-range: 316-329
+  date: 1998
+
+rahmaniani2017:
+  type: Article
+  title: "The Benders Decomposition Algorithm: A Literature Review"
+  author: ["Rahmaniani, Ragheb", "Crainic, Teodor Gabriel", "Gendreau, Michel", "Rei, Walter"]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 259
+  issue: 3
+  page-range: 801-817
+  date: 2017
+
+lidestam2011:
+  type: Article
+  title: "Use of Lagrangian decomposition in supply chain planning"
+  author: ["Lidestam, Helene", "Rönnqvist, Mikael"]
+  parent:
+    type: Periodical
+    title: Mathematical and Computer Modelling
+  volume: 54
+  issue: 9-10
+  page-range: 2428-2442
+  date: 2011
+
+dogan1999:
+  type: Article
+  title: "A primal decomposition method for the integrated design of multi-period production-distribution systems"
+  author: ["Dogan, Kostas", "Goetschalckx, Marc"]
+  parent:
+    type: Periodical
+    title: IIE Transactions
+  volume: 31
+  issue: 11
+  page-range: 1027-1036
+  date: 1999
+
+hendalianpour2022:
+  type: Article
+  title: "Hybrid model of Lagrangian relaxation and Benders decomposition for supply chain network design with product flows"
+  author: ["Hendalianpour, Ayad", "Fakhrabadi, Madjid", "Sangari, Mohamad Sadegh", "Razmi, Jafar"]
+  parent:
+    type: Periodical
+    title: Annals of Operations Research
+  volume: 316
+  page-range: 1127-1163
+  date: 2022
+
+vanderbeck2006:
+  type: Article
+  title: "A generic view of Dantzig-Wolfe decomposition in mixed integer programming"
+  author: ["Vanderbeck, François", "Savelsbergh, Martin W.P."]
+  parent:
+    type: Periodical
+    title: Operations Research Letters
+  volume: 34
+  issue: 3
+  page-range: 296-306
+  date: 2006
+
+azad2013:
+  type: Article
+  title: "Accelerating the Benders decomposition for network design"
+  author: ["Azad, Nader", "Davoudpour, Hamid", "Saharidis, Georgios K.D.", "Shiripour, Mitra"]
+  parent:
+    type: Periodical
+    title: "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture"
+  volume: 227
+  issue: 10
+  page-range: 1417-1431
+  date: 2013
+
+jackson2003:
+  type: Article
+  title: "Temporal decomposition scheme for nonlinear multisite production planning and distribution models"
+  author: ["Jackson, Jennifer R.", "Grossmann, Ignacio E."]
+  parent:
+    type: Periodical
+    title: Industrial and Engineering Chemistry Research
+  volume: 42
+  issue: 13
+  page-range: 3045-3055
+  date: 2003
+
+clarkscarf1960:
+  type: Article
+  title: "Optimal Policies for a Multi-Echelon Inventory Problem"
+  author: ["Clark, Andrew J.", "Scarf, Herbert"]
+  parent:
+    type: Periodical
+    title: Management Science
+  volume: 6
+  issue: 4
+  page-range: 475-490
+  date: 1960
+
+graveswillems2000:
+  type: Article
+  title: "Optimizing Strategic Safety Stock Placement in Supply Chains"
+  author: ["Graves, Stephen C.", "Willems, Sean P."]
+  parent:
+    type: Periodical
+    title: Manufacturing and Service Operations Management
+  volume: 2
+  issue: 1
+  page-range: 68-83
+  date: 2000
+
+barbarosoglu1999:
+  type: Article
+  title: "Hierarchical design of an integrated production and 2-echelon distribution system"
+  author: ["Barbarosoglu, Gulay", "Ozgur, Demet"]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 118
+  issue: 3
+  page-range: 464-484
+  date: 1999
+
+stadtler2005:
+  type: Article
+  title: "Supply chain management and advanced planning - basics, overview and challenges"
+  author: Stadtler, Hartmut
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 163
+  issue: 3
+  page-range: 575-588
+  date: 2005
+
+schneeweiss2003:
+  type: Article
+  title: "Distributed decision making in supply chain management"
+  author: Schneeweiss, Christoph
+  parent:
+    type: Periodical
+    title: International Journal of Production Economics
+  volume: 84
+  issue: 1
+  page-range: 71-83
+  date: 2003
+
+dudekstadtler2005:
+  type: Article
+  title: "Negotiation-based collaborative planning between supply chains partners"
+  author: ["Dudek, Gregor", "Stadtler, Hartmut"]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 163
+  issue: 3
+  page-range: 668-687
+  date: 2005
+
+nie2008:
+  type: Article
+  title: "Collaborative planning in supply chains by Lagrangian relaxation and genetic algorithms"
+  author: ["Nie, Lanshun", "Xu, Xiaofei", "Zhan, Dechen"]
+  parent:
+    type: Periodical
+    title: International Journal of Information Technology and Management
+  volume: 7
+  issue: 1
+  page-range: 40-54
+  date: 2008
+
+maggiar2024:
+  type: Article
+  title: "Consensus Planning with Primal, Dual and Proximal Agents"
+  author: ["Maggiar, Alessio", "Dicker, Adam", "Mahoney, Michael W."]
+  parent:
+    type: Periodical
+    title: arXiv preprint
+  date: 2024
+
+bai2020:
+  type: Article
+  title: "Meta partial Benders decomposition for the logistics service network design problem"
+  author: ["Bai, Ruibin", "Chen, Xinan", "Xue, Ning", "Kendall, Graham"]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 286
+  issue: 2
+  page-range: 586-601
+  date: 2020
+
+schneeweisszimmer2004:
+  type: Article
+  title: "Hierarchical coordination mechanisms within the supply chain"
+  author: ["Schneeweiss, Christoph", "Zimmer, Kirstin"]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 153
+  issue: 3
+  page-range: 687-703
+  date: 2004
+
+hevner2004:
+  type: Article
+  title: "Design Science in Information Systems Research"
+  author: ["Hevner, Alan R.", "March, Salvatore T.", "Park, Jinsoo", "Ram, Sudha"]
+  parent:
+    type: Periodical
+    title: MIS Quarterly
+  volume: 28
+  issue: 1
+  page-range: 75-105
+  date: 2004
+
+guide2003:
+  type: Article
+  title: "Closed-Loop Supply Chains: A Critical Review and Future Research"
+  author: ["Guide Jr., V. Daniel R.", "Van Wassenhove, Luk N."]
+  parent:
+    type: Periodical
+    title: Interfaces
+  volume: 33
+  issue: 6
+  page-range: 57-66
+  date: 2003
+
+halmos1960:
+  type: Book
+  title: "Naive Set Theory"
+  author: Halmos, Paul R.
+  publisher: Van Nostrand
+  date: 1960
+
+ahuja1993:
+  type: Book
+  title: "Network Flows: Theory, Algorithms and Applications"
+  author: ["Ahuja, Ravindra K.", "Magnanti, Thomas L.", "Orlin, James B."]
+  publisher: Prentice Hall
+  date: 1993
+
+sandner1998:
+  type: Thesis
+  title: "Dekompositionsverfahren für die Optimierung der Supply Network-Planung"
+  author: Sandner, Uwe
+  parent:
+    type: Periodical
+    title: "Diplomarbeit, Universität Karlsruhe, Fakultät für Informatik"
+  date: 1998
+
+dantzig1963:
+  type: Book
+  title: "Linear Programming and Extensions"
+  author: Dantzig, George B.
+  publisher: Princeton University Press
+  date: 1963
+
+williams1991:
+  type: Book
+  title: "Model Building in Mathematical Programming"
+  author: Williams, H. Paul
+  edition: 3
+  publisher: John Wiley & Sons
+  date: 1991
+
+rosen1964:
+  type: Article
+  title: "Primal Partition Programming for Block Diagonal Matrices"
+  author: Rosen, J. B.
+  parent:
+    type: Periodical
+    title: Numerische Mathematik
+  volume: 6
+  page-range: 250-260
+  date: 1964
+
+neumann1993:
+  type: Book
+  title: "Operations Research"
+  author: ["Neumann, Klaus", "Morlock, Martin"]
+  publisher: Hanser
+  date: 1993
+
+vollmann1992:
+  type: Book
+  title: "Manufacturing Planning and Control Systems"
+  author: ["Vollmann, Thomas E.", "Berry, William L.", "Whybark, D. Clay"]
+  edition: 3
+  publisher: Irwin
+  date: 1992
+
+everett1963:
+  type: Article
+  title: "Generalized Lagrange Multiplier Method for Solving Problems of Optimum Allocation of Resources"
+  author: Everett, Hugh III
+  parent:
+    type: Periodical
+    title: Operations Research
+  volume: 11
+  issue: 3
+  page-range: 399-417
+  date: 1963
+
+lemarechal2001:
+  type: Chapter
+  title: "Lagrangian Relaxation"
+  author: Lemaréchal, Claude
+  parent:
+    type: Book
+    title: "Computational Combinatorial Optimization"
+    editor: ["Jünger, Michael", "Naddef, Denis"]
+    publisher: Springer
+  page-range: 112-156
+  date: 2001
+
+lasdon1970:
+  type: Book
+  title: "Optimization Theory for Large Systems"
+  author: Lasdon, Leon S.
+  publisher: Macmillan
+  date: 1970
+
+bertsekas1999:
+  type: Book
+  title: "Nonlinear Programming"
+  author: Bertsekas, Dimitri P.
+  edition: 2
+  publisher: Athena Scientific
+  date: 1999
+
+stadtler2015scm:
+  type: Book
+  title: "Supply Chain Management and Advanced Planning: Concepts, Models, Software and Case Studies"
+  author: ["Stadtler, Hartmut", "Kilger, Christoph", "Meyr, Herbert"]
+  edition: 5
+  publisher: Springer
+  date: 2015
+
+dickersbach2009sap:
+  type: Book
+  title: "Supply Chain Management with SAP APO: Structures, Modelling Approaches and Implementation"
+  author: Dickersbach, Jörg Thomas
+  edition: 3
+  publisher: Springer
+  date: 2009
+
+schewe2020decomposition:
+  type: Article
+  title: "A Decomposition Heuristic for Mixed-Integer Supply Chain Problems"
+  author: ["Schewe, Lars", "Schmidt, Martin", "Weninger, Dieter"]
+  parent:
+    type: Periodical
+    title: Operations Research Letters
+  volume: 48
+  issue: 3
+  page-range: 225-232
+  date: 2020
+
+gunther2009planning:
+  type: Book
+  title: "Supply Chain Planning: Quantitative Decision Support and Advanced Planning Solutions"
+  author: ["Günther, Hans-Otto", "Meyr, Herbert"]
+  publisher: Springer
+  date: 2009
+
+bessler1966:
+  type: Article
+  title: "Optimal Policy for a Dynamic Multi-Echelon Inventory Model"
+  author: ["Bessler, Steven A.", "Veinott Jr., Arthur F."]
+  parent:
+    type: Periodical
+    title: Naval Research Logistics Quarterly
+  volume: 13
+  issue: 4
+  page-range: 355-389
+  date: 1966
+
+glasserman1994:
+  type: Article
+  title: "The Stability of a Capacitated, Multi-Echelon Production-Inventory System Under a Base-Stock Policy"
+  author: ["Glasserman, Paul", "Tayur, Sridhar"]
+  parent:
+    type: Periodical
+    title: Operations Research
+  volume: 42
+  issue: 5
+  page-range: 913-925
+  date: 1994
+
+chen2000:
+  type: Article
+  title: "Optimal Policies for Multi-Echelon Inventory Problems with Batch Ordering"
+  author: Chen, Fangruo
+  parent:
+    type: Periodical
+    title: Operations Research
+  volume: 48
+  issue: 3
+  page-range: 376-389
+  date: 2000
+
+diks1998:
+  type: Article
+  title: "Optimal Control of a Divergent Multi-Echelon Inventory System"
+  author: ["Diks, E. B.", "de Kok, A. G."]
+  parent:
+    type: Periodical
+    title: European Journal of Operational Research
+  volume: 111
+  issue: 1
+  page-range: 75-97
+  date: 1998
+
+eiben2011:
+  type: Article
+  title: "Parameter tuning for configuring and analyzing evolutionary algorithms"
+  author: ["Eiben, Agoston E.", "Smit, Selmar K."]
+  parent:
+    type: Periodical
+    title: Swarm and Evolutionary Computation
+  volume: 1
+  issue: 1
+  page-range: 19-31
+  date: 2011
+
+bertsimas1997:
+  type: Book
+  title: "Introduction to Linear Optimization"
+  author: ["Bertsimas, Dimitris", "Tsitsiklis, John N."]
+  publisher: Athena Scientific
+  date: 1997
+
+andersen1996:
+  type: Article
+  title: "On Implementing a Primal-Dual Interior-Point Method for Linear Programming"
+  author: ["Andersen, Erling D.", "Andersen, Knud D."]
+  parent:
+    type: Periodical
+    title: Mathematical Programming
+  volume: 72
+  issue: 3
+  page-range: 249-277
+  date: 1996
+
+mehrotra1992:
+  type: Article
+  title: "On the Implementation of a Primal-Dual Interior Point Method"
+  author: Mehrotra, Sanjay
+  parent:
+    type: Periodical
+    title: SIAM Journal on Optimization
+  volume: 2
+  issue: 4
+  page-range: 575-601
+  date: 1992
+
+markowitz1957:
+  type: Article
+  title: "The Elimination Form of the Inverse and Its Application to Linear Programming"
+  author: Markowitz, Harry M.
+  parent:
+    type: Periodical
+    title: Management Science
+  volume: 3
+  issue: 3
+  page-range: 255-269
+  date: 1957
+
+lemke1954:
+  type: Article
+  title: "The Dual Method of Solving the Linear Programming Problem"
+  author: Lemke, Carlton E.
+  parent:
+    type: Periodical
+    title: Naval Research Logistics Quarterly
+  volume: 1
+  issue: 1
+  page-range: 36-47
+  date: 1954
+
+karmarkar1984:
+  type: Article
+  title: "A New Polynomial-Time Algorithm for Linear Programming"
+  author: Karmarkar, Narendra
+  parent:
+    type: Periodical
+    title: Combinatorica
+  volume: 4
+  issue: 4
+  page-range: 373-395
+  date: 1984

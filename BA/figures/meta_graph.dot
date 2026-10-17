@@ -1,0 +1,13 @@
+digraph MetaGraph {
+    rankdir=TB;
+    node [shape=box, style="rounded,filled", fillcolor="#e8f4f8", fontname="Helvetica", fontsize=14, width=1.5];
+    edge [fontname="Helvetica", fontsize=10];
+
+    Subnet0 [label="Subnetwork 0\n(Procurement)"];
+    Subnet1 [label="Subnetwork 1\n(Production)"];
+    Subnet2 [label="Subnetwork 2\n(Distribution)"];
+
+    Subnet0 -> Subnet1 [label="  multi edge: {ℓ₁, ℓ₂}  ", fontsize=11];
+    Subnet0 -> Subnet2 [label="  multi edge: {ℓ₃}  ", fontsize=11];
+    Subnet1 -> Subnet2 [label="  multi edge: {ℓ₄, ℓ₅}  ", fontsize=11];
+}
